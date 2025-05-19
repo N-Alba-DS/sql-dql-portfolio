@@ -9,7 +9,7 @@ The exercises cover essential aspects of working with relational databases, incl
 
 ##  Thematic Index by Conceptual Unit
 
-### 🔍 1. Fundamentals of SQL Querying
+###  1. Fundamentals of SQL Querying
 *Using SELECT, WHERE, LIKE, logical operators, and NULL handling.*
 
 - Exercises 1–5: Basic filtering and text patterns  
@@ -17,7 +17,7 @@ The exercises cover essential aspects of working with relational databases, incl
 
 ---
 
-### 🔗 2. Joins and Table Relationships  
+###  2. Joins and Table Relationships  
 *Relational design in practice. Primary and foreign key logic. Table associations.*
 
 - Exercises 12–16: Basic joins, LEFT JOIN, INNER JOIN, relationship interpretation  
@@ -25,7 +25,7 @@ The exercises cover essential aspects of working with relational databases, incl
 
 ---
 
-### 📊 3. Aggregation, Grouping, and Scalar Functions  
+###  3. Aggregation, Grouping, and Scalar Functions  
 *Applying COUNT, SUM, AVG, MIN, MAX with and without GROUP BY. Use of HAVING.*
 
 - Exercises 17–31: Metrics by group, conditional grouping, sales & stock analysis  
@@ -33,7 +33,7 @@ The exercises cover essential aspects of working with relational databases, incl
 
 ---
 
-### 📦 4. Subqueries and Common Table Expressions (CTEs)  
+###  4. Subqueries and Common Table Expressions (CTEs)  
 *Modular SQL logic with CTEs. Replacing correlated subqueries. Query chaining.*
 
 - Exercise 48: Rewriting correlated subqueries as CTEs  
@@ -42,7 +42,7 @@ The exercises cover essential aspects of working with relational databases, incl
 
 ---
 
-### 🧮 5. Logical Modeling and Cross-Analysis  
+### 5. Logical Modeling and Cross-Analysis  
 *Cartesian products, territory-based analysis, geographic and customer segmentation.*
 
 - Exercises 40–41: Full cartesian product of entities  
@@ -50,7 +50,7 @@ The exercises cover essential aspects of working with relational databases, incl
 
 ---
 
-### 📈 6. Business-Oriented Query Applications  
+###  6. Business-Oriented Query Applications  
 *Customer behavior analysis, employee efficiency, detecting unsold or incomplete records.*
 
 - Exercises 35–37: Identifying unsold or undescribed products  
@@ -61,19 +61,10 @@ The exercises cover essential aspects of working with relational databases, incl
 
 ## ⚙️ Tools & Environment
 
-- 🔹 Language: SQL (SQLite3 dialect)  
-- 🔹 Environment: Jupyter Notebook with Python  
-- 🔹 Database: AdventureWorks adapted to SQLite  
-- 🔹 Output visualization: `pandas.read_sql_query()`
+-  Language: SQL (SQLite3 dialect)  
+-  Environment: Jupyter Notebook with Python  
+-  Database: AdventureWorks adapted to SQLite  
+-  Output visualization: `pandas.read_sql_query()`
 
 ---
 
-## 📌 Why It Matters
-
-This notebook demonstrates foundational SQL skills applied to business data analysis — a key ability for roles such as **Data Analyst**, **Data Scientist**, or **BI Developer**.  
-It also highlights competencies in:
-
-- Relational logic and complex query construction  
-- Business data model interpretation  
-- Query optimization using CTEs  
-- Customer segmentation and behavioral analysis
