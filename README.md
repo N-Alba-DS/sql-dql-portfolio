@@ -59,6 +59,30 @@ The exercises cover essential aspects of working with relational databases, incl
 
 ---
 
+### 7. Window Functions  
+*Advanced analytics with RANK/ROW_NUMBER, running aggregates, and inter-row comparisons.*
+
+- **Exercises 51–53:** Department-level salary rankings and sales-order enumeration with `ROW_NUMBER`  
+- **Exercises 54 & 56:** Running subtotals per customer and sequential salary-change tracking via `LAG`/`LEAD`  
+- **Exercises 57–58:** Department-wide extrema (MIN/MAX) and filtering employees whose pay exceeds the departmental average  
+- **Exercises 59–61:** Time gaps between consecutive orders, top-N category ranking, and cumulative salary-delta analysis  
+
+---
+
+### 8. Time Functions  
+*Date arithmetic, temporal aggregation, and tenure calculations.*
+
+- **Exercises 62–63:** Identifying the 10 most recent orders and computing shipping delays with `DATE` and `DATEDIFF`  
+- **Exercise 64:** Monthly order counts for 2013 using `STRFTIME`-based grouping  
+- **Exercise 65:** Calculating employee tenure (years since `HireDate`) and ordering by seniority  
+
+---
+
+### 9. Geographical Functions  
+*Spatial queries with `geography` types: proximity search, radius filtering, WKT, and route metrics.*
+- **Exercise 64:**  Using: `geography::Point `   , `STDistance `  ,`SpatialLocation.ToString`  
+---
+
 ## ⚙️ Tools & Environment
 
 -  Language: SQL (SQLite3 dialect)  
