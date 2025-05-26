@@ -80,7 +80,7 @@ The exercises cover essential aspects of working with relational databases, incl
 
 ### 9. Geographical Functions  
 *Spatial queries with `geography` types: proximity search, radius filtering, WKT, and route metrics.*
-- **Exercise 64:**  Using: `geography::Point `   , `STDistance `  ,`SpatialLocation.ToString`  
+- **Exercise 66-69:**  Using: `geography::Point `   , `STDistance `  ,`SpatialLocation.ToString`  
 ---
 
 ## ⚙️ Tools & Environment
