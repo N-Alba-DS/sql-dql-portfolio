@@ -1,9 +1,20 @@
-#  SQL Practice Portfolio — Relational Models
+#  SQL Practice Portfolio — PowerBI Project - Relational Models
 
-This notebook compiles the resolution of 50 practical exercises from the course **Relational Models**, part of the Data Science Master's program at the University of Buenos Aires.  
-It demonstrates SQL proficiency applied to real business contexts using the `AdventureWorks` database. The exercises were originally resolved on a on a SQL Server using Dbeaver as a main Database Tool and then were ported into Python by using SQLite3.
+This notebook compiles the resolution of 69 practical exercises, and a PowerBi Project from the course **Relational Models**, part of the Data Science Master's program at the University of Buenos Aires.  
+It demonstrates SQL proficiency applied to real business contexts using the `AdventureWorks` database. The exercises were originally resolved on a on a SQL Server using Dbeaver as a main Database Tool and then were ported into Python by using SQLite3. 
 
-The exercises cover essential aspects of working with relational databases, including basic queries, joins, aggregation, subqueries, common table expressions (CTEs), and logical modeling of entity relationships.
+Also it contains a project in which we were tested by creating six questions regarding the dataset and answering them by creating the corresponding applicable visuals to answer those questions. 
+
+- How many orders were placed per month/year?  
+- What was the average time between order date and ship date?  
+- What are the top 10 best-selling products by quantity?  
+- What is the monthly trend of total revenue (`SubTotal`)?  
+- What is the sales share by region (`TerritoryID` or Region)?  
+- Which customers generated the most revenue in the last year?  
+
+This test demonstrates BI proper techiniques by connecting directly to the database through Power BI and managing to create personalizaded tables with SQL Queries. 
+
+In parallel, The exercises cover essential aspects of working with relational databases, including basic queries, joins, aggregation, subqueries, common table expressions (CTEs), and logical modeling of entity relationships.
 
 ---
 
