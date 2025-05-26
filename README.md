@@ -99,7 +99,7 @@ In parallel, The exercises cover essential aspects of working with relational da
 -  Language: SQL (SQLite3 dialect)  
 -  Environment: Jupyter Notebook with Python  
 -  Database: AdventureWorks adapted to SQLite  
--  Output visualization: `pandas.read_sql_query()`
+-  Business Inteligence and Visualization: Power BI
 
 ---
 
